@@ -48,7 +48,7 @@
     max-width: 269px;
 }
 .card-bg {
-    background-image: url(/public/img/cardbg.svg);
+    background-image: url(./img/cardbg.svg);
 }
 .ms {
   max-width: 600px;
