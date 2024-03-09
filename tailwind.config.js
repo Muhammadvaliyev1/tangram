@@ -35,7 +35,8 @@ module.exports = {
         button: '#FF0BFA'
       },
       backgroundImage: {
-        section2: "url('../img/section2.png')"
+        section2: "url('../img/section2.png')",
+        cardbg: "url(../img/cardbg.svg)"
       }
     },
   },
